@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+Pillow>=10.0
+tifffile>=2023.7.10
+# Install CuPy separately for your CUDA version, for example:
+# pip install cupy-cuda12x
